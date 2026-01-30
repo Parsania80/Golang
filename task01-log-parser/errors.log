@@ -1,0 +1,4 @@
+5 2024-01-30 08:55:05 [ERROR] Connection to DB failed: connection refused on port 5432
+10 2024-01-30 09:12:00 [ERROR] PaymentGateway: Timeout waiting for response from API.
+12 2024-01-30 09:12:05 [ERROR] PaymentGateway: Critical failure, transaction rolled back. Request ID: abc-123
+Number of Errors: 3

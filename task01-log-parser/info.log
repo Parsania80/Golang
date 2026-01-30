@@ -1,0 +1,10 @@
+1 2024-01-30 08:55:01 [INFO]  Starting application v1.0.2...
+2 2024-01-30 08:55:02 [INFO]  Loading configuration from /etc/config.json
+4 2024-01-30 08:55:03 [INFO]  Initializing database connection pool...
+6 2024-01-30 08:55:06 [INFO]  Retrying database connection (attempt 2/5)...
+7 2024-01-30 08:55:08 [INFO]  Database connected successfully.
+9 2024-01-30 08:55:11 [INFO]  User 42 logged in.
+13 2024-01-30 09:15:00 [INFO]  Scheduled maintenance task started.
+14 2024-01-30 09:15:05 [INFO]  Maintenance task completed.
+15 2024-01-30 10:00:00 [INFO]  Shutting down signal received.
+Number of Info: 9
