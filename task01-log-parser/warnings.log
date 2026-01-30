@@ -1,0 +1,3 @@
+3 2024-01-30 08:55:02 [WARN]  Config parameter 'timeout' is deprecated, using default.
+11 2024-01-30 09:12:01 [WARN]  Retrying payment transaction...
+Number of Warnings: 2

@@ -1,0 +1,15 @@
+2024-01-30 08:55:01 [INFO]  Starting application v1.0.2...
+2024-01-30 08:55:02 [INFO]  Loading configuration from /etc/config.json
+2024-01-30 08:55:02 [WARN]  Config parameter 'timeout' is deprecated, using default.
+2024-01-30 08:55:03 [INFO]  Initializing database connection pool...
+2024-01-30 08:55:05 [ERROR] Connection to DB failed: connection refused on port 5432
+2024-01-30 08:55:06 [INFO]  Retrying database connection (attempt 2/5)...
+2024-01-30 08:55:08 [INFO]  Database connected successfully.
+2024-01-30 08:55:10 [DEBUG] Payload received: {"user_id": 42, "action": "login"}
+2024-01-30 08:55:11 [INFO]  User 42 logged in.
+2024-01-30 09:12:00 [ERROR] PaymentGateway: Timeout waiting for response from API.
+2024-01-30 09:12:01 [WARN]  Retrying payment transaction...
+2024-01-30 09:12:05 [ERROR] PaymentGateway: Critical failure, transaction rolled back. Request ID: abc-123
+2024-01-30 09:15:00 [INFO]  Scheduled maintenance task started.
+2024-01-30 09:15:05 [INFO]  Maintenance task completed.
+2024-01-30 10:00:00 [INFO]  Shutting down signal received.
